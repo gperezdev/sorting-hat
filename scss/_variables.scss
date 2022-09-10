@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&family=Montserrat:wght@200;300;400;700&display=swap');
+@mixin winner($url) {
+    background-image: url($url);
+    background-position: center;
+    background-size: cover;
+    width: 350px;
+    height: 400px;
+
+    @media only screen and (max-width: 390px) {
+        width: 200px;
+        height: 220px;
+    }
+    @media only screen and (min-width:390px) and (max-width: 449px) {
+        width: 300px;
+        height: 340px;
+
+    }
+    @media only screen and (min-width:890px) {
+        width: 400px;
+        height: 440px;
+    }
+ 
+}
+@mixin container($align){
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: $align;
+    font-family: $text;
+    background-color: #3d3d3d3a;
+    border-radius: 0.75rem;
+    box-shadow: rgba(0, 0, 0, 0.18) 0px 2px 4px;
+    -webkit-border-radius: 0.75rem;
+    -moz-border-radius: 0.75rem;
+    -ms-border-radius: 0.75rem;
+    -o-border-radius: 0.75rem;
+    overflow: hidden;
+}
+
+$title: 'Aboreto', cursive;
+$text: 'Montserrat', sans-serif;
+
+$purple: #a29bfe;
+$purple-lighter: #c3bfff;
+$white: #dfe6e9;
+$dark:#2d3436;
+$darker: #181c1d;
+
