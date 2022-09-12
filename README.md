@@ -4,6 +4,8 @@
 
 🖥️ HTML, CSS/SCSS y JavaScript.
 
+🌐 https://gperez-sorting-hat.netlify.app/
+
 
 ---
 
@@ -13,6 +15,8 @@
 
 🖥️ HTML, CSS/SCSS i JavaScript.
 
+🌐 https://gperez-sorting-hat.netlify.app/
+
 ---
 
 # [EN] 🧙THE SORTING HAT
@@ -20,6 +24,8 @@
 ℹ️ Find out which Hogwarts house you belong to by answering the 10 questions that the sorting hat asks you... Gryffindor? Hufflepuff? Ravenclaw? Slytherin?
 
 🖥️ HTML, CSS/SCSS and JavaScript.
+
+🌐 https://gperez-sorting-hat.netlify.app/
 
 
 ![The Sorting Hat](https://user-images.githubusercontent.com/111184947/189320638-ec7796e6-d0f2-49b4-b972-231ecc782b95.png)
